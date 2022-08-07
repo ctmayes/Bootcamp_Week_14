@@ -74,6 +74,12 @@ jupyter lab
 This should open jupyter lab to the filepath in which you have the repo file, and you simply need double click the *venture_funding_with_deep_learning.ipynb* file to open it. Upon opening, select the menu button with two right facing arrows at the top of the notebook, which will run the entire file. It will ask you to confirm you wish to restart the file, to which you will confirm. Wait a few moments for the program to operate as intended, and peruse the resulting data at your leisure. If you wish, simply skip to the end for my analysis of the preceding information. 
 
 ---
+## Evaluation Report
+
+Baseline
+
+![Screenshot](resources/baseline.png)
+---
 
 ## Contributors
 

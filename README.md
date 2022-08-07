@@ -76,9 +76,9 @@ This should open jupyter lab to the filepath in which you have the repo file, an
 ---
 ## Evaluation Report
 
-Baseline
+Baseline:
 
-![Screenshot](resources/baseline.png)
+![Baseline_Comp](/Resources/Baseline.png)
 ---
 
 ## Contributors
